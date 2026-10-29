@@ -1,5 +1,0 @@
-Place your existing app files here only if this is the folder that contains your application.
-
-Examples: index.html, CSS, JavaScript, assets, or the app's package.json and source folder.
-
-Do not move files here blindly. If your actual application is in another folder, keep it there and configure Vercel's Root Directory to match.
